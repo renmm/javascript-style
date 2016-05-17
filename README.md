@@ -21,10 +21,10 @@
 
 > 此规范采用 [eslint](https://github.com/eslint/eslint) 做代码校验(`eslint`: `^2.10.2`)。
 
-> 对于 [eslint](https://github.com/eslint/eslint) 规则不支持的规范，会标注说明
+对于 [eslint](https://github.com/eslint/eslint) 规则不支持的规范，会标注说明
 
-> - [eslint-doc](http://eslint.org/) 
-> - [eslint-中文文档](http://eslint.cn/) 重点推荐（目前我所见过最棒的文档）
+- [eslint-doc](http://eslint.org/) 
+- [eslint-中文文档](http://eslint.cn/) 重点推荐（目前我所见过最棒的文档）
 
 ## 文档目录
 
@@ -54,7 +54,7 @@
 
 > UTF-8 编码具有更广泛的适应性。BOM 在使用程序或工具处理文件时可能造成不必要的干扰。
 
-> [eslint] [no-irregular-whitespace](http://eslint.cn/docs/rules/no-irregular-whitespace#rule-details)
+[eslint] [no-irregular-whitespace](http://eslint.cn/docs/rules/no-irregular-whitespace#rule-details)
 
 ### 1.2 缩进
 
@@ -62,17 +62,17 @@
 
 > 这个没有什么争论的必要性，统一风格。
 
-> 统计 `github` 的开源 `javascript` 库的缩进风格，收录 `starts` 排名靠前的：
+统计 `github` 的开源 `javascript` 库的缩进风格，收录 `starts` 排名靠前的：
 
-> - tabs `13.25%`
+- tabs `13.25%`
 
-> - 2 spaces `59.94%`
+- 2 spaces `59.94%`
 
-> - 4 spaces `26.81%`
+- 4 spaces `26.81%`
 
-> 感谢 [ukupat](https://github.com/ukupat) 提供的工具：[tabs-or-spaces](http://ukupat.github.io/tabs-or-spaces/)
+感谢 [ukupat](https://github.com/ukupat) 提供的工具：[tabs-or-spaces](http://ukupat.github.io/tabs-or-spaces/)
 
-> [eslint] [indent](http://eslint.cn/docs/rules/indent)
+[eslint] [indent](http://eslint.cn/docs/rules/indent)
 
 ### 1.3 空格
 
