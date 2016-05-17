@@ -1,3 +1,7 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](#user-content-4-The MIT License)
+[![docs](https://img.shields.io/badge/docs-10%25-green.svg?maxAge=2592000)](#user-content-文档目录)
+
+
 # javascript-style javascript编码规范
 
 > javascript因为其设计灵活性，在浏览器端得到了广泛应用。但同时也存在一些不好的。
@@ -46,6 +50,11 @@
 
 2. [语法特性](#user-content-2-语法特性)
 
+3. [thanks](#user-content-3-thanks)
+
+4. [The MIT License](#user-content-4-The MIT License)
+
+
 ## 1 代码风格 code style
 
 ### 1.1 文件编码
@@ -55,6 +64,8 @@
 > UTF-8 编码具有更广泛的适应性。BOM 在使用程序或工具处理文件时可能造成不必要的干扰。
 
 [eslint] [no-irregular-whitespace](http://eslint.cn/docs/rules/no-irregular-whitespace#rule-details)
+
+###### [:top: 文档目录](#user-content-文档目录)
 
 ### 1.2 缩进
 
@@ -74,6 +85,8 @@
 
 [eslint] [indent](http://eslint.cn/docs/rules/indent)
 
+###### [:top: 文档目录](#user-content-文档目录)
+
 ### 1.3 空格
 
 ### 1.4 分号
@@ -84,15 +97,31 @@
 
 ### 1.7 引号
 
+
 ## 2 语法特性
 
-## thanks
+
+## 3 thanks
 
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/es5)
 - [Airbnb JavaScript Style Guide - 中文版](https://github.com/sivan/javascript-style-guide/blob/master/es5/README.md)
 - [Baidu EFE team JavaScript编码规范](https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md)
 - [ECMAScript6 编码规范--广发证券前端团队](https://github.com/gf-rd/es6-coding-style#%E5%AD%97%E7%AC%A6%E4%B8%B2)
 
+###### [:top: 文档目录](#user-content-文档目录)
+
+
+## 4 The MIT License
+
+Copyright (c) 2016 renmm
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+###### [:top: 文档目录](#user-content-文档目录)
 
 ****
 
